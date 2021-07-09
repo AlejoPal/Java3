@@ -19,7 +19,4 @@ public class App {
         System.out.println(obtenerNumeroSuerte("12/12/1992"));
         }
     
-    publicstatic void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
-    }
 }
